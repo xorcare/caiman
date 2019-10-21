@@ -1,0 +1,5 @@
+/caiman
+/.caiman.yaml
+*.vcf
+*.ldif
+/coverage.out
