@@ -1,5 +1,8 @@
 # caiman
 
+[![Build Status](https://travis-ci.org/xorcare/caiman.svg?branch=master)](https://travis-ci.org/xorcare/caiman)
+[![Go Report Card](https://goreportcard.com/badge/github.com/xorcare/caiman)](https://goreportcard.com/report/github.com/xorcare/caiman)
+
 This is a tool for converting [LDIF] ([LDAP]) data into standard [vCard4] data, and
 then downloading it to services or applications that are compatible with the
 vCard4 standard.
