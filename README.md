@@ -10,6 +10,12 @@ vCard4 standard.
 The tool is mainly focused on the [Microsoft AD] product, but can be used with other
 LDAPs, with possible limitations.
 
+## Installation
+
+```bash
+go get github.com/xorcare/caiman/cmd/caiman
+```
+
 ## Command line interface, [CLI]
 
 ```
